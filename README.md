@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @evolltn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-evolltn/evolltn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in machine language.
+- 🌱 I’m currently learning it.
+- 💞️ I’m looking to first learn all there is to learn then collaborate on a global app
+- 📫 welcome to email me any info or assistance is much appriciated.
